@@ -62,3 +62,5 @@ A feature-rich Netflix clone application integrated with GPT (AI) for smart movi
 ## 📝 License
 
 This project is for learning purposes.
+
+Happy Coding
